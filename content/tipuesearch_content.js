@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': '名條', 'text': ' 導入 brython 程式庫  \n \n \n  啟動 Brython  \n \n \n \n \n \n', 'tags': '', 'url': '名條.html'}]};
