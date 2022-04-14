@@ -57,7 +57,7 @@
 <v t="leo.20180115115910.1"><vh>cd2022</vh>
 <v t="leo.20180423103639.1"><vh>2022 spring CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20220331.md</vh></v>
-<v t="leo.20220414141450.1"><vh>@language md</vh></v>
+<v t="leo.20220414141450.1"><vh>@edit 20220407.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,19 +89,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220414141450.1">Title: W7
-Date: 2022-04-07 18:02
-Category: Misc
-Tags: 2022SpringCD
-Slug: w7_summary
-Author: 40923212
----
-
-2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-40923212</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
