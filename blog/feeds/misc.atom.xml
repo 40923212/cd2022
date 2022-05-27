@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-27T23:12:30+08:00</updated><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T18:02:00+08:00</published><updated>2022-04-14T14:25:26+08:00</updated><author><name>40923233</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-27T23:22:10+08:00</updated><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T18:02:00+08:00</published><updated>2022-04-14T14:25:26+08:00</updated><author><name>40923233</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
-&lt;p&gt;40923233&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W3</title><link href="./w3_html.html" rel="alternate"></link><published>2022-04-01T14:43:00+08:00</published><updated>2022-05-27T23:12:30+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-01:./w3_html.html</id><summary type="html">&lt;p&gt;W3&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;W3&lt;/p&gt;
+&lt;p&gt;40923233&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W3 NX1980</title><link href="./w3_html.html" rel="alternate"></link><published>2022-04-01T14:43:00+08:00</published><updated>2022-05-27T23:22:10+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-01:./w3_html.html</id><summary type="html">&lt;p&gt;W3 有 38 個比較接近 NX1980 版本功能的教學影片 , 請以每一學員分配 5 個影片的原則, 由各學員在 w3 標題頁面中, 根據影片中的教學內容, 以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理, 完成後請將所負責的 Wink 教學影片嵌入個人與大分組的 w3 標題頁面中.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3 有 38 個比較接近 NX1980 版本功能的教學影片 , 請以每一學員分配 5 個影片的原則, 由各學員在 w3 標題頁面中, 根據影片中的教學內容, 以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理, 完成後請將所負責的 Wink 教學影片嵌入個人與大分組的 w3 標題頁面中.&lt;/p&gt;
 
 
-&lt;h2&gt;W3&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0001.mp4"&gt;123&lt;/a&gt;5485&lt;/p&gt;
-&lt;script&gt;
-var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
-};
-&lt;/script&gt;
-&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
-&lt;source src="https://40923212.github.io/cd2022/downloads/0001.mp4" type="video/mp4" /&gt;&lt;/video&gt;
-&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
-&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923212.html" rel="alternate"></link><published>2022-03-31T14:43:00+08:00</published><updated>2022-05-27T23:01:24+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-03-31:./w6_40923212.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+&lt;h2&gt;W3 NX1980&lt;/h2&gt;
+&lt;p&gt;w2 完成分組後, 各組即進入利用 NX1980 繪製 uArm 機械手臂的協同設計階段, 其中包括手臂兩側的正齒輪減速機設計, 以及各連桿與組立所需要的其他組件設計等 。&lt;/p&gt;
+&lt;p&gt;uArm 機械手臂的初步設計目的, 是完成 NX1980 組立圖後, 能轉入 Coppeliasim 環境中進行機電系統組合模擬, 讓操作者透過 Custom UIs 介面操控四個自由度的 uArm 步進伺服馬達.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0001.mp4"&gt;影片1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0002.mp4"&gt;影片2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0003.mp4"&gt;影片3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0004.mp4"&gt;影片4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/0005.mp4"&gt;影片5&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923212.html" rel="alternate"></link><published>2022-03-31T14:43:00+08:00</published><updated>2022-05-27T23:01:24+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-03-31:./w6_40923212.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 
