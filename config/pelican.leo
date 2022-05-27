@@ -93,8 +93,8 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20220527225418.1">@language md
 ---
-Title: 2022 Spring CD 課程
-Date: 2022-03-31 14:43
+Title: W3
+Date: 2022-04-01 14:43
 Category: Misc
 Tags: 2022SpringCD
 Slug: w6_40923212
