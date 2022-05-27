@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-27T23:38:12+08:00</updated><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T18:02:00+08:00</published><updated>2022-04-14T14:25:26+08:00</updated><author><name>40923233</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-27T23:50:12+08:00</updated><entry><title>反pullrequest</title><link href="./repullrequest.html" rel="alternate"></link><published>2022-04-08T22:36:00+08:00</published><updated>2022-05-27T23:50:12+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-08:./repullrequest.html</id><summary type="html">&lt;p&gt;反pullrequest 使用說明&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;反pullrequest 使用說明&lt;/p&gt;
+
+
+&lt;h2&gt;反pullrequest&lt;/h2&gt;
+&lt;p&gt;到自己學號下的小組倉儲點選pullrequest&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll1.png"&gt;示意圖1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;點選new pullrequest&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll2.png"&gt;示意圖2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;將網址上的學號前後對調，如示意圖3.4:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll3.png"&gt;示意圖3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll4.png"&gt;示意圖4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;學號對調後就點選create pullrequest，之後的方法跟原本的pullrequest，完整作法如下影片:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/repull.mp4"&gt;影片&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T18:02:00+08:00</published><updated>2022-04-14T14:25:26+08:00</updated><author><name>40923233</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
