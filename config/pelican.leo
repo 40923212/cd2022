@@ -57,8 +57,7 @@
 <v t="leo.20180115115910.1"><vh>cd2022</vh>
 <v t="leo.20180423103639.1"><vh>2022 spring CP 課程</vh>
 <v t="leo.20220527224238.1"><vh>@edit 20220330.md</vh></v>
-<v t="leo.20220527225418.1"><vh>newHeadline</vh></v>
-<v t="leo.20180423103656.1"><vh>@edit 20220331.md</vh></v>
+<v t="leo.20220527225418.1"><vh>@edit 20220401.md</vh></v>
 <v t="leo.20220414141450.1"><vh>@edit 20220407.md</vh></v>
 </v>
 </v>
@@ -91,52 +90,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220527225418.1">@language md
----
-Title: W3
-Date: 2022-04-01 14:43
-Category: Misc
-Tags: 2022SpringCD
-Slug: w6_40923212
-Author: 40923212
----
-
-2022-Spring-CD
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
- 小組上傳
-----
-
-
-[123]5485
-
-
-
-&lt;script&gt;
-var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
-};
-&lt;/script&gt;
-&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
-&lt;source src="https://40923212.github.io/cd2022/downloads/0001.mp4" type="video/mp4" /&gt;&lt;/video&gt;
-&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
-&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
-&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-[123]:https://40923212.github.io/cd2022/downloads/0001.mp4</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
