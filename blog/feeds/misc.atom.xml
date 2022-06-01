@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-01T17:17:20+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-10T18:02:00+08:00</published><updated>2022-06-01T17:17:20+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-10:./w7_summary.html</id><summary type="html">&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-01T17:19:32+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-17T18:02:00+08:00</published><updated>2022-06-01T17:17:56+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-17:./w7_summary.html</id><summary type="html">&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
+
+
+&lt;h2&gt;W7 機械手臂&lt;/h2&gt;
+&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/mtb.mp4"&gt;影片&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7 機械手臂</title><link href="./w7_mtb.html" rel="alternate"></link><published>2022-04-10T18:02:00+08:00</published><updated>2022-06-01T17:19:32+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-10:./w7_mtb.html</id><summary type="html">&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;組員分配不同的繪圖軟體分別是 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製出Pick and Place demo範例所需的零組件 將零件組裝好後 利用Coppeliasim模擬機械運轉 目前零件畫好也組裝完畢 研究程式碼讓機械手臂可以正常運轉。&lt;/p&gt;
 
 
@@ -48,11 +54,7 @@
 &lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll3.png"&gt;示意圖3&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/repulll4.png"&gt;示意圖4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;學號對調後就點選create pullrequest，之後的方法跟原本的pullrequest，完整作法如下影片:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/repull.mp4"&gt;影片&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T18:02:00+08:00</published><updated>2022-04-14T14:25:26+08:00</updated><author><name>40923233</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
-
-
-&lt;p&gt;40923233&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>LEO edit</title><link href="./leoedit.html" rel="alternate"></link><published>2022-04-06T15:17:00+08:00</published><updated>2022-05-27T23:38:12+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-06:./leoedit.html</id><summary type="html">&lt;p&gt;LEO edit 使用說明&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/downloads/repull.mp4"&gt;影片&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>LEO edit</title><link href="./leoedit.html" rel="alternate"></link><published>2022-04-06T15:17:00+08:00</published><updated>2022-05-27T23:38:12+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-06:./leoedit.html</id><summary type="html">&lt;p&gt;LEO edit 使用說明&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;LEO edit 使用說明&lt;/p&gt;
 
 
