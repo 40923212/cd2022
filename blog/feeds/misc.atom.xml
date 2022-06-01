@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-01T17:49:54+08:00</updated><entry><title>W11 work</title><link href="./w11_work.html" rel="alternate"></link><published>2022-04-13T21:20:00+08:00</published><updated>2022-06-01T17:49:54+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-13:./w11_work.html</id><summary type="html">&lt;p&gt;本週將要進行兩項任務, 第一是確認各分組能夠有效在組長的分組倉儲中, 以非同步協同的方式進行 uArm 機械手臂場景的建置與操控, 第二則是從 CoppeliaSim 的兩種 XML 檔案格式, 了解如何透過程式方法建立 uArm 機械手臂場景.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-01T19:13:10+08:00</updated><entry><title>W12 work</title><link href="./w12_work.html" rel="alternate"></link><published>2022-04-14T20:37:00+08:00</published><updated>2022-06-01T19:13:10+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-14:./w12_work.html</id><summary type="html">&lt;p&gt;UARM手臂所需零件共155個，若不計重複使用之零件總數為58個。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;UARM手臂所需零件共155個，若不計重複使用之零件總數為58個。&lt;/p&gt;
+
+
+&lt;h2&gt;W12 work&lt;/h2&gt;
+&lt;p&gt;M2X4 螺絲&lt;/p&gt;
+&lt;p&gt;M3X4 内六角圓頭螺絲&lt;/p&gt;
+&lt;p&gt;M3X5 内六角圓頭螺絲&lt;/p&gt;
+&lt;p&gt;M3X5 平頭螺絲&lt;/p&gt;
+&lt;p&gt;M3X5 沉頭螺絲&lt;/p&gt;
+&lt;p&gt;M3X5 扁平頭鐵鍍鎳螺絲&lt;/p&gt;
+&lt;p&gt;M3X5 圓頭黑色十字螺絲&lt;/p&gt;
+&lt;p&gt;M3X6 内六角圓頭螺絲&lt;/p&gt;
+&lt;p&gt;M3X15 雙通螺絲&lt;/p&gt;
+&lt;p&gt;M4X5 顶螺絲&lt;/p&gt;
+&lt;p&gt;M4X6 沉頭螺絲&lt;/p&gt;
+&lt;p&gt;M4X7 平頭螺絲&lt;/p&gt;
+&lt;p&gt;M4X10 平頭螺絲&lt;/p&gt;
+&lt;p&gt;M4X15 平頭螺絲&lt;/p&gt;
+&lt;p&gt;MF84&lt;/p&gt;
+&lt;p&gt;2mm導光柱&lt;/p&gt;
+&lt;p&gt;2mm導熱硅胶片&lt;/p&gt;
+&lt;p&gt;3Dprint轉接板&lt;/p&gt;
+&lt;p&gt;5-13-4軸承&lt;/p&gt;
+&lt;p&gt;6X2.5 磁鐵&lt;/p&gt;
+&lt;p&gt;8.3X1.5 防滑墊&lt;/p&gt;
+&lt;p&gt;前端通用件&lt;/p&gt;
+&lt;p&gt;前端關節&lt;/p&gt;
+&lt;p&gt;7mm 支撐柱&lt;/p&gt;
+&lt;p&gt;3mm 鋁支撐柱&lt;/p&gt;
+&lt;p&gt;三角形連桿軸承壓緊件&lt;/p&gt;
+&lt;p&gt;三角形連桿&lt;/p&gt;
+&lt;p&gt;絞鍊&lt;/p&gt;
+&lt;p&gt;主臂關節2&lt;/p&gt;
+&lt;p&gt;主臂關節1&lt;/p&gt;
+&lt;p&gt;電機軸承支撐座_左側&lt;/p&gt;
+&lt;p&gt;電機軸承支撐座_右側&lt;/p&gt;
+&lt;p&gt;右側曲柄&lt;/p&gt;
+&lt;p&gt;輸出軸&lt;/p&gt;
+&lt;p&gt;右側連桿&lt;/p&gt;
+&lt;p&gt;左側連桿&lt;/p&gt;
+&lt;p&gt;4mm 鋁支撐柱&lt;/p&gt;
+&lt;p&gt;減速箱上殼&lt;/p&gt;
+&lt;p&gt;減速箱下殼&lt;/p&gt;
+&lt;p&gt;L型連接件&lt;/p&gt;
+&lt;p&gt;軸承支撐軸&lt;/p&gt;
+&lt;p&gt;軸承支撐圈&lt;/p&gt;
+&lt;p&gt;底座上蓋&lt;/p&gt;
+&lt;p&gt;底座中間部分&lt;/p&gt;
+&lt;p&gt;底座蓋&lt;/p&gt;
+&lt;p&gt;磁编碼器PCB&lt;/p&gt;
+&lt;p&gt;42進步電機&lt;/p&gt;
+&lt;p&gt;塑料蓋板&lt;/p&gt;
+&lt;p&gt;使用py檔案去run，則可以得知UARM手臂:&lt;/p&gt;
+&lt;p&gt;30%零件為steel製，其餘為Aluminum製，總重量約2,2205kg&lt;/p&gt;
+&lt;p&gt;全部零件為Aluminum製，總重量約1,412kg&lt;/p&gt;
+&lt;p&gt;全部零件為steel製，總重量約4,1062kg&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/uarm1.png"&gt;圖片1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923212.github.io/cd2022/images/uarm2.png"&gt;圖片2&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W11 work</title><link href="./w11_work.html" rel="alternate"></link><published>2022-04-13T21:20:00+08:00</published><updated>2022-06-01T17:49:54+08:00</updated><author><name>40923212</name></author><id>tag:None,2022-04-13:./w11_work.html</id><summary type="html">&lt;p&gt;本週將要進行兩項任務, 第一是確認各分組能夠有效在組長的分組倉儲中, 以非同步協同的方式進行 uArm 機械手臂場景的建置與操控, 第二則是從 CoppeliaSim 的兩種 XML 檔案格式, 了解如何透過程式方法建立 uArm 機械手臂場景.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週將要進行兩項任務, 第一是確認各分組能夠有效在組長的分組倉儲中, 以非同步協同的方式進行 uArm 機械手臂場景的建置與操控, 第二則是從 CoppeliaSim 的兩種 XML 檔案格式, 了解如何透過程式方法建立 uArm 機械手臂場景.&lt;/p&gt;
 
 
